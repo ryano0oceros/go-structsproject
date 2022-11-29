@@ -1,0 +1,2 @@
+# go-structsproject
+go course
